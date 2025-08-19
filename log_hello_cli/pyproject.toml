@@ -14,8 +14,7 @@ dependencies = [
 packages = [{include = "log_hello_cli", from = "src"}]
 
 [tool.poetry.scripts]
-hello = "log_hello_cli
-main:main"
+hello = "log_hello_cli.main:main"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
