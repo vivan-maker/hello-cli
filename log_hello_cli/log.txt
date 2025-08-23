@@ -1,1 +1,6 @@
 INFO:root:program dijakankan oleh Tian
+INFO:root:program dijakankan oleh Tian
+ERROR:root:ERRO : 'str' object has no attribute 'umur'
+ERROR:root:ERRO : 'str' object has no attribute 'umur'
+ERROR:root:ERRO : 'str' object has no attribute 'umur'
+INFO:root:program dijakankan oleh Tian
